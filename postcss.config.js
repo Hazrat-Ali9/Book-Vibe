@@ -4,3 +4,5 @@ export default {
     autoprefixer: {},
   },
 }
+
+// Palgins

@@ -1,0 +1,172 @@
+[
+    {
+        "bookId": 1,
+        "bookName": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "image": "https://i.ibb.co/VHbNdyG/71z-NHngqf-PL-SY466.jpg",
+        "review": "A timeless classic that captures the essence of the Jazz Age.",
+        "totalPages": 180,
+        "rating": 4.5,
+        "category": "Fiction",
+        "tags": [
+            "Classic",
+            "Romance",
+            "Tragedy"
+        ],
+        "publisher": "Scribner",
+        "yearOfPublishing": 1925
+    },
+    {
+        "bookId": 2,
+        "bookName": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "image": "https://i.ibb.co/Pg2QP1K/41-JKg1c-Et-YL-SY466.jpg",
+        "review": "A profound exploration of racial injustice and moral growth.",
+        "totalPages": 324,
+        "rating": 4.8,
+        "category": "Fiction",
+        "tags": [
+            "Classic",
+            "Social Issues",
+            "Legal Drama"
+        ],
+        "publisher": "J. B. Lippincott & Co.",
+        "yearOfPublishing": 1960
+    },
+    {
+        "bookId": 3,
+        "bookName": "1984",
+        "author": "George Orwell",
+        "image": "https://i.ibb.co/kSz8t4B/81v-HA1-Gmh-S-AC-UF1000-1000-QL80.jpg",
+        "review": "A dystopian masterpiece that warns of the dangers of totalitarianism.",
+        "totalPages": 328,
+        "rating": 4.7,
+        "category": "Fiction",
+        "tags": [
+            "Dystopian",
+            "Political",
+            "Social Commentary"
+        ],
+        "publisher": "Secker & Warburg",
+        "yearOfPublishing": 1949
+    },
+    {
+        "bookId": 4,
+        "bookName": "Sapiens: A Brief History of Humankind",
+        "author": "Yuval Noah Harari",
+        "image": "https://i.ibb.co/D5kb8pv/919-Px-Bmn-G1-L-AC-UF894-1000-QL80.jpg",
+        "review": "An eye-opening journey through the history of Homo sapiens.",
+        "totalPages": 443,
+        "rating": 4.6,
+        "category": "Non-Fiction",
+        "tags": [
+            "History",
+            "Anthropology",
+            "Science"
+        ],
+        "publisher": "Harper",
+        "yearOfPublishing": 2011
+    },
+    {
+        "bookId": 5,
+        "bookName": "The Hitchhiker's Guide to the Galaxy",
+        "author": "Douglas Adams",
+        "image": "https://i.ibb.co/9hk5LNv/41-Pr-Aa3b-i-L-AC-UF894-1000-QL80.jpg",
+        "review": "A hilarious and surreal adventure through space.",
+        "totalPages": 224,
+        "rating": 4.4,
+        "category": "Science Fiction",
+        "tags": [
+            "Humor",
+            "Adventure",
+            "Satire"
+        ],
+        "publisher": "Pan Books",
+        "yearOfPublishing": 1979
+    },
+    {
+        "bookId": 6,
+        "bookName": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "image": "https://i.ibb.co/TMn2DCz/61-Rb-Lnkwp-RL-AC-UF1000-1000-QL80-removebg-preview.png",
+        "review": "A coming-of-age novel that continues to resonate with readers.",
+        "totalPages": 277,
+        "rating": 4.3,
+        "category": "Fiction",
+        "tags": [
+            "Coming-of-Age",
+            "Cultural",
+            "Identity"
+        ],
+        "publisher": "Little, Brown and Company",
+        "yearOfPublishing": 1951
+    },
+    {
+        "bookId": 7,
+        "bookName": "The Lord of the Rings",
+        "author": "J.R.R. Tolkien",
+        "image": "https://i.ibb.co/j67WQZr/71-Vjm-Mc-E-r-L-AC-UF894-1000-QL80.jpg",
+        "review": "An epic fantasy masterpiece that transports readers to Middle-earth.",
+        "totalPages": 1178,
+        "rating": 4.9,
+        "category": "Fantasy",
+        "tags": [
+            "Epic",
+            "Adventure",
+            "High Fantasy"
+        ],
+        "publisher": "Allen & Unwin",
+        "yearOfPublishing": 1954
+    },
+    {
+        "bookId": 8,
+        "bookName": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "image": "https://i.ibb.co/cQLwXBz/9781847493699.jpg",
+        "review": "A witty and romantic novel exploring love and societal expectations.",
+        "totalPages": 432,
+        "rating": 4.7,
+        "category": "Classic",
+        "tags": [
+            "Romance",
+            "Social Commentary",
+            "Satire"
+        ],
+        "publisher": "T. Egerton, Whitehall",
+        "yearOfPublishing": 1813
+    },
+    {
+        "bookId": 9,
+        "bookName": "Harry Potter and the Philosopher's Stone",
+        "author": "J.K. Rowling",
+        "image": "https://i.ibb.co/hdF8xwV/philsophers-stone-uk-childrens-edition.jpg",
+        "review": "A magical journey introducing readers to the world of Hogwarts.",
+        "totalPages": 309,
+        "rating": 4.8,
+        "category": "Fantasy",
+        "tags": [
+            "Magic",
+            "Adventure",
+            "Young Adult"
+        ],
+        "publisher": "Bloomsbury",
+        "yearOfPublishing": 1997
+    },
+    {
+        "bookId": 10,
+        "bookName": "The Hunger Games",
+        "author": "Suzanne Collins",
+        "image": "https://i.ibb.co/qC6dmq3/53320204.jpg",
+        "review": "A gripping dystopian tale of survival and rebellion.",
+        "totalPages": 374,
+        "rating": 4.5,
+        "category": "Young Adult",
+        "tags": [
+            "Dystopian",
+            "Adventure",
+            "Action"
+        ],
+        "publisher": "Scholastic Press",
+        "yearOfPublishing": 2008
+    }
+]

@@ -20,3 +20,4 @@ export default {
   plugins: [require("daisyui")],
 }
 
+// Tailwind 

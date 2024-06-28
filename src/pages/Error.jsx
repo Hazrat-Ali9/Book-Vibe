@@ -1,6 +1,7 @@
 import { NavLink } from "react-router-dom";
 
 const Error = () => {
+    // Error Function
     return (
         <section className="flex items-center h-full p-16 ">
             <div className="container flex flex-col items-center justify-center px-5 mx-auto my-8">

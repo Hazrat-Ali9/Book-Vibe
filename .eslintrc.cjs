@@ -20,4 +20,4 @@ module.exports = {
   },
 }
 
-// Eslintrc
+// eslintrc

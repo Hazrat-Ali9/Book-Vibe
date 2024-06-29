@@ -10,7 +10,7 @@ import BookDetails from "../pages/BookDetails.jsx";
 // import WishlistBooks from "../components/WishlistBooks.jsx";
 import Contact from "../pages/Contact.jsx";
 import Faq from "../pages/Faq.jsx";
-
+// read books // component
 export const router = createBrowserRouter([
   {
     path: "/",

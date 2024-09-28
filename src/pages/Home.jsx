@@ -9,5 +9,5 @@ const Home = () => {
         </div>
     );
 };
-// Home 
+// Home jsx
 export default Home;
